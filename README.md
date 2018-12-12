@@ -1,4 +1,4 @@
-Coral reef carbonate chemistry and isotopic fractionation factor calculations to accompany:
+Coral reef carbonate chemistry and isotopic fractionation factor calculations from One Tree Island, Great Barrier Reef, Australia to accompany:
 
 *Carbon isotopic fractionation in organic matter production consistent with benthic community composition across a coral reef flat*
 
